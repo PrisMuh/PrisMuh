@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisMuh)](https://github.com/PrisMuh/github-readme-stats)
+[![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisMuh&show_icons=true&theme=one_dark_pro )](https://github.com/PrisMuh/github-readme-stats)
 
 ---
 
